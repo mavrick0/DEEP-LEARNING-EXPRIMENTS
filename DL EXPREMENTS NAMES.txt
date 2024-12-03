@@ -1,0 +1,10 @@
+1.lmplementation of solving XOR problem using DNN
+2.lmplementation of Character recognition using CNN
+3.Implementation of Face recognition using CNN
+4.Implementation of Language modeling using RNN
+5.Implementation of Sentiment analysis using LSTM
+6.Implementation of Parts of speech tagging using Sequence to Sequence architecture
+7.Implementation of Machine Translation using Encoder-Decoder model
+8.Implementation of Image augmentation using GANs
+9.Implementation of Mini-project on real
+world applications
